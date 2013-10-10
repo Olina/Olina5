@@ -1,8 +1,8 @@
 <?php
 /**
- * A wrapper for HTMLPurifier by Edward Z. Yang, http://htmlpurifier.org/
+ * A wrapper for HTMLPurifier by  Edward Z. Yang, http://htmlpurifier.org/
  * 
- * @package OlinaCore
+ * @package OlinaCore  
  */
 class CHTMLPurifier {
 
